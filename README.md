@@ -3,4 +3,4 @@
 AtCoderのプロフィールページに新たにProblemsへのリンクを追加するユーザースクリプトです。
 
 ## インストール
-- https://github.com/yi7242/AtCoderAddlinktoUserpage/raw/main/UserScript.user.js からインストール
+Greasy Fork[https://greasyfork.org/ja/scripts/469312-atcoder-add-link-to-problems]からお願いします。
