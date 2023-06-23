@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Atcoder Add link to Problems
+// @name         AtCoder Add link to Problems
 // @namespace    https://atcoder.jp/
 // @version      1.0
 // @description  Add links to AtCoder Problems Userpage on AtCoder profile.
