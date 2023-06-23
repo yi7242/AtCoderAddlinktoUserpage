@@ -1,10 +1,11 @@
 // ==UserScript==
-// @name         Add link to Problems
+// @name         Atcoder Add link to Problems
 // @namespace    https://atcoder.jp/
-// @version      0.2
+// @version      1.0
 // @description  Add links to AtCoder Problems Userpage on AtCoder profile.
-// @author       You
+// @author       yi7242
 // @match        https://atcoder.jp/users/*
+// @license      MIT
 // @exclude      https://atcoder.jp/users/?/history
 // @exclude      https://atcoder.jp/users/?/history/*
 // ==/UserScript==
