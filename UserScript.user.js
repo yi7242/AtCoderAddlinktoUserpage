@@ -1,13 +1,14 @@
 // ==UserScript==
-// @name         AtCoder Add link to Problems
-// @namespace    https://github.com/yi7242
-// @version      1.0
-// @description  Add links to AtCoder Problems Userpage on AtCoder profile.
-// @author       yi7242
-// @match        https://atcoder.jp/users/*
-// @license      MIT
-// @exclude      https://atcoder.jp/users/?/history
-// @exclude      https://atcoder.jp/users/?/history/*
+// @name           AtCoder Add link to Problems
+// @namespace      https://github.com/yi7242
+// @version        1.0
+// @description    Add links to AtCoder Problems Userpage on AtCoder profile.
+// @description:ja AtCoderのプロフィールページにAtCoder Problemsへのリンクを追加するユーザースクリプトです。
+// @author         yi7242
+// @match          https://atcoder.jp/users/*
+// @license        MIT
+// @exclude        https://atcoder.jp/users/?/history
+// @exclude        https://atcoder.jp/users/?/history/*
 // ==/UserScript==
 
 (function() {
