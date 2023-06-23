@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         AtCoder Add link to Problems
-// @namespace    https://atcoder.jp/
+// @namespace    https://github.com/yi7242
 // @version      1.0
 // @description  Add links to AtCoder Problems Userpage on AtCoder profile.
 // @author       yi7242
